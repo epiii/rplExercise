@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ircikel1", "ircikel1\ircikel1.csproj", "{C77DA3BB-67FF-42E4-B3BE-277FBA5E637E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ircikel1.Tests", "ircikel1.Tests\ircikel1.Tests.csproj", "{BBE9E198-12E5-4122-8021-F7ECEDF15791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77DA3BB-67FF-42E4-B3BE-277FBA5E637E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77DA3BB-67FF-42E4-B3BE-277FBA5E637E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77DA3BB-67FF-42E4-B3BE-277FBA5E637E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77DA3BB-67FF-42E4-B3BE-277FBA5E637E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE9E198-12E5-4122-8021-F7ECEDF15791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE9E198-12E5-4122-8021-F7ECEDF15791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE9E198-12E5-4122-8021-F7ECEDF15791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE9E198-12E5-4122-8021-F7ECEDF15791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
